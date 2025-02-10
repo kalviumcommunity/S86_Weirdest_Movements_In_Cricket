@@ -30,5 +30,5 @@ This Ignored Node Modules and Package-lock.json files.
 
 ## Setting up Endpoint using express application
 - The server is created using the express package.
-- A basic route /ping is defined which sends back a response: 'Hey, This is Lokeswara Reddy' when visited.
+- A basic route /ping is defined which sends back a response: 'Hey, This is Harikrishna Reddy' when visited.
 - The server listens on port 3000, and when you visit http://localhost:3000/ping, you'll receive the response message.
