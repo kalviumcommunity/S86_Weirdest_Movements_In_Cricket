@@ -15,7 +15,6 @@ Responsive UI with an interactive leaderboard
 Frontend: React (Vite), HTML, CSS
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose for schema)
-Authentication: Firebase Auth (optional)
 Hosting: Vercel (Frontend), Render (Backend)
 
 ##  Why This Project?
