@@ -9,13 +9,11 @@ Users can submit weird cricket moments with a short description and an optional 
 Upvote/downvote system to rank the weirdest moments
 Categorization of moments (e.g., funniest run-outs, strangest dismissals, bizarre umpiring decisions)
 Search and filter functionality
-Responsive UI with an interactive leaderboard
 
 ## Tech Stack:
-Frontend: React (Vite), HTML, CSS
+Frontend: React (Vite)
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose for schema)
-Authentication: Firebase Auth (optional)
 Hosting: Vercel (Frontend), Render (Backend)
 
 ##  Why This Project?
