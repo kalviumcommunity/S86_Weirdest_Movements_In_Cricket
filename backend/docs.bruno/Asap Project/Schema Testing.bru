@@ -1,0 +1,19 @@
+meta {
+  name: Schema Testing
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:3000/cricket-laws
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "lawNumber": "19.8",
+    "title": "Ball getting lodged in a fielder’s clothing",
+    "description": "If a ball gets stuck in a player's helmet or clothing, it is declared dead."
+  }
+}
