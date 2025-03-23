@@ -20,4 +20,4 @@ Hosting: Vercel (Frontend), Render (Backend)
 This project is unique, aligns with the "as silly as possible" guideline, and is perfect for cricket fans. It allows users to engage with cricket history in a fun and interactive way. Through this project, I'll develop full-stack skills, including API creation, authentication, database management, and front-end development, while working on something enjoyable and entertaining.
 
 ## Render Deployment link:
-https://github.com/kalviumcommunity/S86_Weirdest_Movements_In_Cricket.git
+https://s86-weirdest-movements-in-cricket.onrender.com
